@@ -25,9 +25,9 @@ class Header
 // F3 - Loading Screen
 // Credits: Please see the F3 online manual (http://www.ferstaberinde.com/f3/en/)
 
-onLoadName = "*** Insert mission name here. ***";
-onLoadMission = "Made with the F3_CA Mission Development Framework";
-author = "*** Insert mission author name here. ***";
+onLoadName = "Operation City Watch";
+onLoadMission = "100% not inspired by the Dunkirk mission.";
+author = "Bubbus";
 loadScreen = "ca_logo_large.jpg";
 
 // ============================================================================================
@@ -164,8 +164,8 @@ class CfgDebriefing
 {
 	class End1
 	{
-		title = "Ending #1";
-		subtitle = "";
+		title = "Successful defense";
+		subtitle = "And don't come Nabq.";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -174,8 +174,8 @@ class CfgDebriefing
 
 	class End2
 	{
-		title = "Ending #2";
-		subtitle = "";
+		title = "Successful extraction";
+		subtitle = "They can keep the city, we have cool speedboats now";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -184,8 +184,8 @@ class CfgDebriefing
 
 	class End3
 	{
-		title = "Ending #3";
-		subtitle = "";
+		title = "Unsuccessful defense";
+		subtitle = "Come on lads they're only heavily armed terrorists";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -194,8 +194,8 @@ class CfgDebriefing
 
 	class End4
 	{
-		title = "Ending #4";
-		subtitle = "";
+		title = "Unsuccessful extraction";
+		subtitle = "Great, now they have the city and your shoes.";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -204,8 +204,8 @@ class CfgDebriefing
 
 	class End5
 	{
-		title = "Ending #5";
-		subtitle = "";
+		title = "Lone survivor";
+		subtitle = "One man, one boat, one dream, one hope";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -215,7 +215,7 @@ class CfgDebriefing
 	class End6
 	{
 		title = "Ending #6";
-		subtitle = "";
+		subtitle = "unregistered hypercam";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
